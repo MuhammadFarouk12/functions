@@ -1,0 +1,1 @@
+function Seprator(sepratorCount = 100){console.log("_".repeat(sepratorCount));}
